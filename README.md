@@ -1,6 +1,6 @@
 # Layout Youtube
 
-Trata-se de um layout criativo baseado no Youtube, mesclando display grid e! 🚀
+Trata-se de um layout criativo baseado no Youtube, mesclando display grid e flex! 🚀
 
 [<img src="./design/desktop.png" alt="design do app no desktop">](https://google.com)
 
