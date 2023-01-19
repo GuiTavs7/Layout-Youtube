@@ -1,5 +1,6 @@
-# Lista de Imagens / Pinturas
-Trata-se de um layout criativo baseado no Youtube, mesclando display grid e flex! 🚀
+# Layout Youtube
+
+Trata-se de um layout criativo baseado no Youtube, mesclando display grid e! 🚀
 
 [<img src="./design/desktop.png" alt="design do app no desktop">](https://google.com)
 
